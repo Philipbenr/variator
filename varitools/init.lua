@@ -36,7 +36,7 @@ minetest.register_craft({
 	recipe = {
 		{"default:steel_ingot","default:diamond","default:steel_ingot"},
 		{"","default:stick",""},
-		{"","default:steel_ingot",""},
+		{"","default:stick",""},
 	},
 })
 
