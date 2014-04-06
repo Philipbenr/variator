@@ -122,3 +122,7 @@ Chiesel:
 
 [           ]+[ Obsidian shard ]
 [   Stick   ]+[                ]
+
+--+--+--+--+--+--+--+--+--+--+--+--+--+
+
+Now includes RHR's lantern mod. Recipes in the lantern dir.
